@@ -2,6 +2,11 @@
 My name is Lucas, i'm a dev in development 😁✍️<br><br>
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Luaxlz&show_icons=true&hide_border=true&include_all_commits=true"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luaxlz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 Feel free to look around, if you got any questions feel free to dm me as well. 🤔🙋 <br><br><br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Luaxlz.Luaxlz)
