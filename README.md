@@ -1,4 +1,8 @@
-### Hi there 👋 my name is Lucas, i'm a dev in development 😁✍️
+### Hello there👋👋
+My name is Lucas, i'm a dev in development 😁✍️
+
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Luaxlz.Luaxlz)
 <!--
 **Luaxlz/Luaxlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
