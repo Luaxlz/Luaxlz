@@ -1,17 +1,37 @@
 ### Hello there👋👋
-My name is Lucas, i'm a dev in development 😁✍️<br><br>
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Luaxlz&show_icons=true&hide_border=true&include_all_commits=true"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luaxlz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+My name is Lucas, i'm a dev in development!  😁✍️
+## Whats goin on...💡
+- 🌐 Working as Technical Support Analyst at BLZ NET ISP
+- 🌱 Currently studying Web Development at COD3R.
+- 📫 My e-mail: jl.angeli@outlook.com
+
+### 🏆 Github Stats:
+<p align="center">
+    <a href="https://github.com/GuilherveMasco/">
+        <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=Luaxlz&hide=stars&count_private=true&show_icons=true&theme=material-palenight" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaxlz&count_private=true&hide=smalltalk&theme=material-palenight&layout=compact" /> 
+    </a>
+</p>
+
+### 👤<sup>💭</sup>My Social Media:
+  &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jlangeli)&emsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsluky/)&emsp;[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/luaxlz)&emsp;
+
+
 <!--START_SECTION:waka-->
 
 ```text
 No activity tracked
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> <br> <br>
+
+
 Feel free to look around, if you got any questions feel free to dm me as well. 🤔🙋 <br><br><br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Luaxlz.Luaxlz)
-<!--
-**Luaxlz/Luaxlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<!--**Luaxlz/Luaxlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
