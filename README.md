@@ -8,8 +8,8 @@ My name is Lucas, i'm a dev in development!  😁✍️
 ### 🏆 Github Stats:
 <p align="center">
     <a href="https://github.com/Luaxlz/">
-        <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=Luaxlz&hide=stars&count_private=true&show_icons=true&theme=material-palenight" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaxlz&count_private=true&theme=material-palenight&layout=compact" /> 
+        <img src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=Luaxlz&hide=stars&count_private=true&show_icons=true&theme=material-palenight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaxlz&count_private=true&theme=material-palenight&layout=compact" /> 
     </a>
 </p>
 
