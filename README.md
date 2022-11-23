@@ -20,7 +20,7 @@ My name is Lucas, i'm a dev in development!  😁✍️
 <!--START_SECTION:waka-->
 
 ```text
-INI   26 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> <br> <br>
