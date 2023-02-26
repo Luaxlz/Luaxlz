@@ -20,7 +20,8 @@ My name is Lucas, i'm a dev in development!  😁✍️
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   19 mins         █████████████████████░░░░   84.63 %
+JSON         3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
 ```
 
 <!--END_SECTION:waka--> <br> <br>
