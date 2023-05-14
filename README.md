@@ -20,8 +20,7 @@ My name is Lucas, i'm a dev in development!  😁✍️
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 1 min      ██████████████████████▓░░   90.25 %
-Markdown     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> <br> <br>
