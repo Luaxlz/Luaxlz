@@ -1,8 +1,18 @@
-### Hello there👋👋
-My name is Lucas, i'm a dev in development!  😁✍️
-## Whats goin on...💡
+<p align="center">
+    <a href="https://github.com/Luaxlz/">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWEyYzZkZTc5ZGQ2NjQxZjkyMmMyMTA4ZTIzMTZkNGM1OWNhMGVlMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xTiIzJSKB4l7xTouE8/giphy.gif" />
+    </a>
+</p>
+<br>
+Hi! My name is Lucas Angeli, i'm a fullstack developer, studying web development with focus on Node.JS and React!😁✍️
+<br>
+
+## Whats happening in my life atm💡
 - 🌐 Working as Technical Support Analyst at BLZ NET ISP
-- 🌱 Currently studying Web Development at COD3R.
+- 🌱 Currently studying:
+    - Web Development at COD3R.
+    - Sistemas da Informação at Estácio.
+    - React and NextJS self-taught. 
 - 📫 My e-mail: jl.angeli@outlook.com
 
 ### 🏆 Github Stats:
@@ -14,9 +24,7 @@ My name is Lucas, i'm a dev in development!  😁✍️
 </p>
 
 ### 👤<sup>💭</sup>My Social Media:
-  &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jlangeli)&emsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsluky/)&emsp;[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/luaxlz)&emsp;
-
-
+  &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jlangeli)&emsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsluky/)&emsp;
 <!--START_SECTION:waka-->
 
 ```text
@@ -26,10 +34,7 @@ No activity tracked
 <!--END_SECTION:waka--> <br> <br>
 
 
-Feel free to look around, if you got any questions feel free to dm me as well. 🤔🙋 <br><br><br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Luaxlz.Luaxlz)
-
-
+Feel free to look around, I have a couple of projects that I develop in my studies to consolidate knowledge and also to develop ideas, if you got any questions or wanna talk feel free to dm me or send a e-mail as well. 🤔🙋 <br><br><br>
 
 <!--**Luaxlz/Luaxlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
