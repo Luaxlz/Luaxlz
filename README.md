@@ -27,7 +27,7 @@ Hi! My name is Lucas Angeli, i'm a fullstack developer, studying web development
   &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jlangeli)&emsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsluky/)&emsp;
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
