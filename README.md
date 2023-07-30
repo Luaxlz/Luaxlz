@@ -28,11 +28,11 @@ Hi! My name is Lucas Angeli, i'm a fullstack developer, studying web development
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 25 mins   ███████████████████████▓░   94.62 %
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript   4 hrs 8 mins    ████████████████████████▒   96.77 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka--> <br> <br>
