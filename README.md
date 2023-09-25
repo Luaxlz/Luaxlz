@@ -8,9 +8,8 @@ Hi! My name is Lucas Angeli, i'm a fullstack developer, studying web development
 <br>
 
 ## Whats happening in my life atm💡
-- 🌐 Working as Technical Support Analyst at BLZ NET ISP
+- 🌐 Working as fullstack developer @meumei
 - 🌱 Currently studying:
-    - Web Development at COD3R.
     - Sistemas da Informação at Estácio.
     - React and NextJS self-taught. 
 - 📫 My e-mail: jl.angeli@outlook.com
