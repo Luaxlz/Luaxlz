@@ -9,10 +9,18 @@ Hi! My name is Lucas Angeli, i'm a fullstack developer, studying web development
 
 ## Whats happening in my life atm💡
 - 🌐 Working as fullstack developer @meumei
+- 🚀 Working on my personal portfolio <a href="https://portfolio-project-seven-green.vercel.app">Check out how it is going</a>
 - 🌱 Currently studying:
-    - Sistemas da Informação at Estácio.
-    - React and NextJS self-taught. 
+    - React and Next.js.
+    - Typescript
+    - GIT
+    - PostgreSQL with Prisma ORM
+
+## Check out my socials 📱
 - 📫 My e-mail: jl.angeli@outlook.com
+- <a href="https://www.linkedin.com/in/jlangeli/">Linkedin</a>
+- <a href="https://www.instagram.com/itsluky/">Instagram</a>
+- <a href="https://api.whatsapp.com/send/?phone=%2B5544933002540&text&type=phone_number&app_absent=0">WhatsApp</a>
 
 ### 🏆 Github Stats:
 <p align="center">
@@ -21,9 +29,6 @@ Hi! My name is Lucas Angeli, i'm a fullstack developer, studying web development
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaxlz&count_private=true&theme=material-palenight&layout=compact" /> 
     </a>
 </p>
-
-### 👤<sup>💭</sup>My Social Media:
-  &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jlangeli)&emsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsluky/)&emsp;
 <!--START_SECTION:waka-->
 
 ```txt
