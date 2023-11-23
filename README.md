@@ -8,10 +8,11 @@ Hi! My name is Lucas Angeli, i'm a fullstack developer, studying web development
 <br>
 
 ## Whats happening in my life atm💡
-- 🌐 Working as fullstack developer @meumei
+- 🌐 Working as a freelancer Fullstack Web Developer @meumei
 - 🚀 Working on my personal portfolio <a href="https://portfolio-project-seven-green.vercel.app">Check out how it is going</a>
-- 🌱 Currently studying:
-    - React and Next.js.
+- 🌱 Currently studying @Rocketseat:
+    - React and Nextjs.
+    - NodeJS
     - Typescript
     - GIT
     - PostgreSQL with Prisma ORM
@@ -21,21 +22,6 @@ Hi! My name is Lucas Angeli, i'm a fullstack developer, studying web development
 - <a href="https://www.linkedin.com/in/jlangeli/">Linkedin</a>
 - <a href="https://www.instagram.com/itsluky/">Instagram</a>
 - <a href="https://api.whatsapp.com/send/?phone=%2B5544933002540&text&type=phone_number&app_absent=0">WhatsApp</a>
-
-### 🏆 Github Stats:
-<p align="center">
-    <a href="https://github.com/Luaxlz/">
-        <img src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=Luaxlz&hide=stars&count_private=true&show_icons=true&theme=material-palenight" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaxlz&count_private=true&theme=material-palenight&layout=compact" /> 
-    </a>
-</p>
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka--> <br> <br>
 
 
 Feel free to look around, I have a couple of projects that I develop in my studies to consolidate knowledge and also to develop ideas, if you got any questions or wanna talk feel free to dm me or send a e-mail as well. 🤔🙋 <br><br><br>
