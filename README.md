@@ -8,7 +8,7 @@ Hi! My name is Lucas Angeli, i'm a fullstack developer, studying web development
 <br>
 
 ## Whats happening in my life atm💡
-- 🌐 Working as a freelancer Fullstack Web Developer @meumei
+- 🌐 Working as a Fullstack Web Developer at <a href="https://www.agroflux.com.br/en">AgroFlux</a>
 - 🚀 Working on my personal portfolio <a href="https://portfolio-project-seven-green.vercel.app">Check out how it is going</a>
 - 🌱 Currently studying @Rocketseat:
     - React and Nextjs.
