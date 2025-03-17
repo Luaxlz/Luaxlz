@@ -8,14 +8,16 @@ Hi! My name is Lucas Angeli, i'm a fullstack developer, studying web development
 <br>
 
 ## Whats happening in my life atm💡
-- 🌐 Working as a Fullstack Web Developer at <a href="https://www.agroflux.com.br/en" target="_blank">AgroFlux</a>
-- 🚀 Working on my personal portfolio <a href="https://portfolio-project-seven-green.vercel.app" target="_blank">Check out how it is going</a>
-- 🌱 Currently studying @Rocketseat:
-    - React and Nextjs.
+- 🌐 Working as a Fullstack Web Developer at <a href="https://software.viptech.com.br/desenvolvimento-software/" target="_blank">Viptech</a>
+- 🌱 Currently working with:
     - NodeJS
+    - NestJS
     - Typescript
     - GIT
-    - PostgreSQL with Prisma ORM
+    - PostgreSQL
+    - MongoDB
+    - TypeORM
+    - React and Nextjs.
 
 ## Check out my socials 📱
 - 📫 My e-mail: jl.angeli@outlook.com
