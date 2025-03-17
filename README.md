@@ -8,7 +8,7 @@ Hi! My name is Lucas Angeli, i'm a fullstack developer, studying web development
 <br>
 
 ## Whats happening in my life atm💡
-- 🌐 Working as a Fullstack Web Developer at <a href="https://software.viptech.com.br/desenvolvimento-software/" target="_blank">Viptech</a>
+- 🌐 Working as a Back-End Developer at <a href="https://software.viptech.com.br/desenvolvimento-software/" target="_blank">Viptech</a>
 - 🌱 Currently working with:
     - NodeJS
     - NestJS
